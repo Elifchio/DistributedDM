@@ -5,9 +5,10 @@ Wiktoria Stęczna
 Elif Yilmaz
 The analysis takes TOP 200 podcast charts from September 2024 to until the middle of October 2024 from various regions on the world and performs several analyses:
 
-what are the semantical commonalities between regions based on podcast descriptions?
-can we predict whetever the podcast will go up or down in the charts?
-what is the estimated time and what are the factors that contribute to podcast drop off TOP 200?
+Research questions:
+- what are the semantical commonalities between regions based on podcast descriptions?
+- can we predict whetever the podcast will go up or down in the charts?
+- what is the estimated time and what are the factors that contribute to podcast drop off TOP 200?
 The project was developed using PySpark library.
 
 Project structure:
