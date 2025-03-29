@@ -20,3 +20,7 @@ Project structure:
 3. Clustering_Task.ipynb - sentence embedding, averaging embeddings by regions and finding the optimal clustering
 4. survival_analysis.ipynb - Kaplan Meier curve, AFT Regression Model, number of days to reach top200
 	- 4.1. ne_110m_admin_0_countries - directory with .shp files for visualizations
+5. Report_ddm.pdf - Short report that summarizes the work and the outcomes.
+
+Dataset:
+https://www.kaggle.com/datasets/daniilmiheev/top-spotify-podcasts-daily-updated - 229k of records from all over the world about the ranking and change of rankings of podcasts
